@@ -24,7 +24,7 @@ def create_tweet():
 	user, comida = get_from_csv()
 	print(user,comida)
 	tweet = """
-            Já convidou o {} para comer um ~{} no @TeComoEmCasa hoje?
+            Já convidou o @{} para comer um ~{} no @TeComoEmCasa hoje?
             """.format(user, comida)
 	return tweet
 	
