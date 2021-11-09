@@ -75,7 +75,6 @@ pandocfilters==1.4.2
 parso==0.6.2
 pickleshare==0.7.5
 Pillow==7.2.0
-plotly==4.8.2
 pluggy==0.13.1
 ply==3.11
 prometheus-client==0.7.1
@@ -100,8 +99,6 @@ pytest-cov==2.9.0
 python-dateutil==2.8.1
 python-louvain==0.13
 pytz==2020.1
-pywin32==227
-pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.0
 regex==2020.6.8
@@ -112,16 +109,12 @@ ruamel-yaml==0.15.87
 scapy==2.4.5
 scikit-learn==0.23.1
 scipy==1.5.0
-seaborn==0.10.1
-selenium==3.141.0
 Send2Trash==1.5.0
 six==1.16.0
 soupsieve==2.0.1
-spotipy==2.19.0
 terminado==0.8.3
 testpath==0.4.4
 threadpoolctl==2.1.0
-tinydb==4.1.1
 toml==0.10.1
 tornado==6.0.4
 tqdm==4.42.1
@@ -135,9 +128,7 @@ webencodings==0.5.1
 Werkzeug==2.0.1
 win-inet-pton==1.1.0
 wincertstore==0.2
-wordcloud==1.7.0
 wostools==1.1.0
 WTForms==2.3.3
 xlrd==2.0.1
-xmltodict==0.12.0
 zipp==3.1.0
